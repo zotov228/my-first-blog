@@ -25,7 +25,7 @@ SECRET_KEY = '!!tb^965*y4$er#dt4g0crjj48-$e^h!oiyk7u^#d^s*nd$j3p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'zotov.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'zotoves.pythonanywhere.com']
 
 
 # Application definition
